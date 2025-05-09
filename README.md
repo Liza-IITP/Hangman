@@ -1,7 +1,7 @@
 # Hangman
 Simple Python Word Guessing Game
 
-# Screenshot
+# If you lose ......
 ![alt text](./screenshot.png)
 
 
